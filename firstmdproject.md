@@ -1,5 +1,5 @@
 # Basketball in My Life
-![Basketball](https://dks.scene7.com/is/image/dkscdn/16SPLUNBRPLCGMBLLBKB)
+![](https://dks.scene7.com/is/image/dkscdn/16SPLUNBRPLCGMBLLBKB)
 ## Starting Off
 I started playing when I was about in 3rd grade and stopped until about my first year in junior high school. It was always fun, but I knew i needed to work on my game more to get to where I wanted to be.
 ___
@@ -39,3 +39,5 @@ This story helps me with understanding how I can take my work ethic in basketbal
          do_calculation = False
 ```
 I hope to continue to enjoy this career path and keep use of wanting to do better more and more as I go along. I Thank you for teaching me the things that i've laerned and cant wait to learn more. [Fin](https://www.collinsdictionary.com/dictionary/spanish-english/fin).  
+
+[Home](./README.md)
