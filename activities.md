@@ -2,7 +2,8 @@
 
 ---
 Throughout High school, I was involved with a lot. These are groups/organizations as well as sports. Overall These afterschool activities helped with time management and understanding leadership roles as well as much more.
-![](./)
+
+![](./fhc.png)
 
 ---
 ### Activities  
@@ -28,4 +29,4 @@ Throughout High school, I was involved with a lot. These are groups/organization
 
 
 
-[Home](./)
+[Home](./README.md)
